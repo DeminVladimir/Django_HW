@@ -1,0 +1,10 @@
+{% extends 'homeapp/base.html' %}
+
+{% block content %}
+    <h2>Выберите и загрузите картинку</h2>
+    <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Отправить</button>
+    </form>
+{% endblock %}
