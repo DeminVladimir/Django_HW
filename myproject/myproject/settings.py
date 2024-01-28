@@ -89,10 +89,10 @@ DATABASES = {
     # }
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': '<your_username>$<your_database_name>',
-        'USER': '<your_username>',
+        'NAME': 'GromH1$default',
+        'USER': 'GromH1',
         'PASSWORD': os.getenv('MYSQL_PASSWORD'),
-        'HOST': '<your_mysql_hostname>',
+        'HOST': 'GromH1.mysql.pythonanywhere-services.com',
         'OPTIONS': {
             'init_command': "SET NAMES 'utf8mb4';SET sql_mode='STRICT_TRANS_TABLES'",
             'charset': 'utf8mb4',
