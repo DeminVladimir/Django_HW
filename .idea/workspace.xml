@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60b6352e-e497-4077-a4c1-6e47f48e52bb" name="Changes" comment="HW_5.1">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/management/commands/add_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/management/commands/delete_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/management/commands/read_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/management/commands/update_date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/migrations/0002_product_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/migrations/0003_alter_product_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/templates/homeapp/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/templates/homeapp/image_save.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/templates/homeapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/templates/homeapp/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/homeapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/myproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myproject/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HW_5" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2a8JSCN8xotLxgFax8CRxLcQzZH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;HW__6&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PyCharm Community Edition 2023.2.1/Django/Django_HW&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.deploy.options&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm Community Edition 2023.2.1\Django\Django_HW" />
+      <recent name="D:\PyCharm Community Edition 2023.2.1\Django\Django_HW\HW_5" />
+      <recent name="D:\PyCharm Community Edition 2023.2.1\Django\Django_HW\HW_4" />
+      <recent name="D:\PyCharm Community Edition 2023.2.1\Django\Django_HW\HW_3\myproject\homeapp\templates" />
+      <recent name="D:\PyCharm Community Edition 2023.2.1\Django\Django_HW\HW_3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm Community Edition 2023.2.1\Django\Django_HW\myproject" />
+      <recent name="D:\PyCharm Community Edition 2023.2.1\Django\Django_HW\HW_3\myproject\homeapp\templates\homeapp" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60b6352e-e497-4077-a4c1-6e47f48e52bb" name="Changes" comment="" />
+      <created>1703694270035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703694270035</updated>
+      <workItem from="1703694271615" duration="3607000" />
+      <workItem from="1704820156024" duration="2278000" />
+      <workItem from="1704822516268" duration="1072000" />
+      <workItem from="1705340075892" duration="1431000" />
+      <workItem from="1705424144948" duration="199000" />
+      <workItem from="1705598498117" duration="3168000" />
+      <workItem from="1705853075596" duration="1887000" />
+      <workItem from="1705863525229" duration="19000" />
+      <workItem from="1706199907118" duration="4429000" />
+      <workItem from="1706204716715" duration="210000" />
+      <workItem from="1706204974162" duration="172000" />
+      <workItem from="1706456665612" duration="1874000" />
+    </task>
+    <task id="LOCAL-00001" summary="HW_2">
+      <option name="closed" value="true" />
+      <created>1703703486565</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703703486565</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HW_2_S3">
+      <option name="closed" value="true" />
+      <created>1704822544064</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704822544064</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HW_3">
+      <option name="closed" value="true" />
+      <created>1705346426221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705346426221</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HW_4">
+      <option name="closed" value="true" />
+      <created>1705605293784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705605293784</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HW_5">
+      <option name="closed" value="true" />
+      <created>1705861340770</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705861340770</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HW_5.1">
+      <option name="closed" value="true" />
+      <created>1706204359077</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706204359077</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW_2" />
+    <MESSAGE value="HW_2_S3" />
+    <MESSAGE value="HW_3" />
+    <MESSAGE value="HW_4" />
+    <MESSAGE value="HW_5" />
+    <MESSAGE value="HW_5.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_5.1" />
+  </component>
+</project>
