@@ -1,0 +1,7 @@
+{% extends 'homeapp/base.html' %}
+
+{% block content %}
+{% for order in test %}
+    {{ order.order_date }}
+    {% endfor %}
+{% endblock %}
